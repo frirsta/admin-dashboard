@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-As a **tester**, I can **capability** so that **received benefit**
+As a **company**, I can **capability** so that **received benefit**
 
 ## Acceptance Criteria
 * Acceptance Criteria 1:
