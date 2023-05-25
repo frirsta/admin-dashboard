@@ -1,0 +1,20 @@
+---
+name: COMPANY STORY
+about: This is our default user story template
+title: COMPANY STORY <TITLE>
+labels: ''
+assignees: ''
+
+---
+
+As a **tester**, I can **capability** so that **received benefit**
+
+## Acceptance Criteria
+* Acceptance Criteria 1:
+* Acceptance Criteria 2:
+* Acceptance Criteria 3:
+
+## Tasks
+- [ ] Task 1:
+- [ ] Task 2:
+- [ ] Task 3:
