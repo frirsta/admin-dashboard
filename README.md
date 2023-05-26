@@ -27,6 +27,24 @@ This is the functional module diagram of the project:
 
 
 
+![image](https://github.com/frirsta/admin-dashboard/assets/88880169/1d07df3b-b643-474c-9783-98809877baac)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
